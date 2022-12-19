@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandlerblaschka
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m currently a hobby developer and working as a Software Product Manager.
 
 
 <!---
